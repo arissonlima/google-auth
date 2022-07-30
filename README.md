@@ -10,4 +10,5 @@ Este projeto foi desenvolvido com ReactJS e foi implementado o recurso de autent
 
 - [Vite](https://vitejs.dev)
 - [ReactJS](https://pt-br.reactjs.org)
+- [Sass](https://sass-lang.com)
 - [Firebase](https://firebase.google.com/)
