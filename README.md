@@ -4,7 +4,7 @@
 
 ### 💻 O projeto
 
-Este projeto foi desenvolvido com ReactJS e foi implementado o recurso de autenticação do Google Firebase (Google Auth).
+Este projeto foi desenvolvido com ReactJS, foi criada as estilização por meio do pré-processador Sass e foi implementado o recurso de autenticação do Google Firebase (Google Auth).
 
 ### 🚀 Tecnologias
 
